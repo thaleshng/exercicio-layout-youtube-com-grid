@@ -48,7 +48,7 @@
 <br>
 
 <p> O projeto em questão tem como finalidade testar os aprendizados dos módulos de HTML e CSS (Parte 3) do curso de developer que tem enfoque em GRID.</p> 
-<p>A premissa do exercício em questão foi fazer um Layout parecido com o do YouTube, usando mais o GRID, porém, podendo usar Flexbox também, para praticar todas as ferramentas ensinadas no curso.</p>
+<p>A premissa do exercício em questão foi fazer um Layout parecido com o do YouTube, usando mais o GRID, porém, podendo usar Flexbox, para praticar todas as ferramentas ensinadas no curso.</p>
 <br>
 <br>
 <br>
