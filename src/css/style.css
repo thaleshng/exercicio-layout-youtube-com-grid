@@ -3,7 +3,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     display: grid;
-    grid-template-rows: max(415px);
+    grid-template-rows: max(450px);
     grid-template-columns:max(900px);
 }
 
